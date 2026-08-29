@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.env
+*.py[cod]
+
+sentinelmesh.egg-info/
+
+ai_security_report_copilot.egg-info/
