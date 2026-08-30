@@ -1,5 +1,7 @@
 # AI Security Report Generator / Triage Copilot
 
+[![CI](https://github.com/Ax0r1/ai-security-report-copilot/actions/workflows/ci.yml/badge.svg)](https://github.com/Ax0r1/ai-security-report-copilot/actions/workflows/ci.yml) [![Latest release](https://img.shields.io/github/v/release/Ax0r1/ai-security-report-copilot)](https://github.com/Ax0r1/ai-security-report-copilot/releases) [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 AI Security Report Generator / Triage Copilot is a provider-agnostic defensive security gateway and **AI Security Report Generator / Triage Copilot** for connecting security agents to an API owned and configured by each operator. It normalizes findings, produces a transparent risk summary, prioritizes remediation, and generates an executive-ready report without requiring users to share credentials with the project maintainer.
 
 > AI Security Report Generator / Triage Copilot is designed for authorized defensive security operations. Do not use it to access systems, data, or networks without explicit permission.
